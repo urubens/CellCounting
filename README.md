@@ -1,4 +1,4 @@
-#CellCounting
+# CellCounting
 
 Implementation and evaluation of cell counting algorithms with randomized trees 
 (especially Extra-Trees) and deep learning (convolutional neural networks).
