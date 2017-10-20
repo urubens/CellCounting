@@ -18,4 +18,4 @@ cd sldc
 python setup.py build
 python setup.py install
 cd /cellcounting
-pip install -r requirements.txt
+pip install .
